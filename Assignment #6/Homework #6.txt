@@ -1,0 +1,5 @@
+
+Udemy:
+1) Professional Cloud Security Engineer: Sections 11 - 15
+2) Terraform for Beginners using GCP - Google Cloud (Hands-on) Sections 1-9
+3) Google Cloud (GCP) MasterClass : GCP Live Projects: Section 10
