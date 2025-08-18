@@ -1,0 +1,3 @@
+You are a cloud consultant. A company wants to migrate their public facing "hello world" application from on premises to the cloud. They want you to draw up the roadmap for how the application can be moved to the cloud. The company is prioritizing minimal downtime and security for the application.
+1) Submit the ideal architecture diagram for the application while it's on premises.
+2) list out the services, tools, technologies, and/or methodologies that you would recommend for the migration.
