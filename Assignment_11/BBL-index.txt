@@ -1,0 +1,94 @@
+<body style="font-family: system-ui, Arial, sans-serif; margin: 2rem; color:#111;">
+    <header style="display:flex;justify-content:space-between;align-items:center;gap:1rem;margin-bottom:1.5rem;">
+      <h1 style="margin:0;">BBL Janitorial Services</h1>
+      <nav style="display:flex;gap:1rem;">
+        <a href="#services">Services</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+  
+    <section style="margin-bottom:2rem;">
+      <h2 style="margin:0 0 .5rem 0;">Sparkling clean. Reliable. Local.</h2>
+      <p>Commercial & residential cleaning—lobbies, offices, post-construction, move-in/out, and more.</p>
+    </section>
+  
+    <section id="services" style="margin:2rem 0;">
+      <h3 style="margin:0 0 1rem 0;">Our Services</h3>
+  
+      <div style="
+        display:grid;
+        grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+        gap:16px;
+      ">
+        <!-- Office Cleaning -->
+        <article style="border:1px solid #e5e7eb;border-radius:12px;overflow:hidden;background:#fff;">
+          <img src="images/office.jpg" alt="Office cleaning" loading="lazy" style="width:100%;height:160px;object-fit:cover;">
+          <div style="padding:12px;">
+            <h4 style="margin:.2rem 0;">Office Cleaning</h4>
+            <p style="margin:0;color:#444;">Nightly/weekly service, trash, dusting, restrooms, breakrooms.</p>
+          </div>
+        </article>
+  
+        <!-- Floor Care -->
+        <article style="border:1px solid #e5e7eb;border-radius:12px;overflow:hidden;background:#fff;">
+          <img src="images/floor-care.jpg" alt="Floor care strip and wax" loading="lazy" style="width:100%;height:160px;object-fit:cover;">
+          <div style="padding:12px;">
+            <h4 style="margin:.2rem 0;">Floor Care</h4>
+            <p style="margin:0;color:#444;">Strip & wax, scrubbing, buffing, tile & grout care.</p>
+          </div>
+        </article>
+  
+        <!-- Carpet Cleaning -->
+        <article style="border:1px solid #e5e7eb;border-radius:12px;overflow:hidden;background:#fff;">
+          <img src="images/carpet.jpg" alt="Carpet cleaning" loading="lazy" style="width:100%;height:160px;object-fit:cover;">
+          <div style="padding:12px;">
+            <h4 style="margin:.2rem 0;">Carpet Cleaning</h4>
+            <p style="margin:0;color:#444;">Hot-water extraction & low-moisture encapsulation.</p>
+          </div>
+        </article>
+  
+        <!-- Window Washing -->
+        <article style="border:1px solid #e5e7eb;border-radius:12px;overflow:hidden;background:#fff;">
+          <img src="images/windows.jpg" alt="Window washing" loading="lazy" style="width:100%;height:160px;object-fit:cover;">
+          <div style="padding:12px;">
+            <h4 style="margin:.2rem 0;">Window Washing</h4>
+            <p style="margin:0;color:#444;">Interior & exterior, streak-free finish.</p>
+          </div>
+        </article>
+  
+        <!-- Move-In/Out -->
+        <article style="border:1px solid #e5e7eb;border-radius:12px;overflow:hidden;background:#fff;">
+          <img src="images/move-out.jpg" alt="Move-in and move-out cleaning" loading="lazy" style="width:100%;height:160px;object-fit:cover;">
+          <div style="padding:12px;">
+            <h4 style="margin:.2rem 0;">Move-In / Move-Out</h4>
+            <p style="margin:0;color:#444;">Detailed deep cleans for turnovers and showings.</p>
+          </div>
+        </article>
+  
+        <!-- Post-Construction -->
+        <article style="border:1px solid #e5e7eb;border-radius:12px;overflow:hidden;background:#fff;">
+          <img src="images/post-construction.jpg" alt="Post-construction cleanup" loading="lazy" style="width:100%;height:160px;object-fit:cover;">
+          <div style="padding:12px;">
+            <h4 style="margin:.2rem 0;">Post-Construction</h4>
+            <p style="margin:0;color:#444;">Dust removal, debris haul, final-clean punch lists.</p>
+          </div>
+        </article>
+  
+        <!-- Disinfection -->
+        <article style="border:1px solid #e5e7eb;border-radius:12px;overflow:hidden;background:#fff;">
+          <img src="images/disinfection.jpg" alt="Disinfection services" loading="lazy" style="width:100%;height:160px;object-fit:cover;">
+          <div style="padding:12px;">
+            <h4 style="margin:.2rem 0;">Disinfection</h4>
+            <p style="margin:0;color:#444;">High-touch surface treatment with EPA-listed agents.</p>
+          </div>
+        </article>
+      </div>
+    </section>
+  
+    <section id="contact" style="margin:2rem 0;">
+      <h3>Contact</h3>
+      <p>Phone: (555) 123-4567 • Email: hello@bbljanitorialservices.com</p>
+    </section>
+  </body>
+  
